@@ -1,0 +1,42 @@
+{
+  "name": "android-design",
+  "version": "1.0.0",
+  "description": "An agent skill for Claude Code: Google's Android design guidance and Material 3 Expressive, with the reasoning beneath them and a method for applying them. Current to Android 17.",
+  "bin": {
+    "android-design": "bin/install.js"
+  },
+  "type": "commonjs",
+  "engines": {
+    "node": ">=16.7.0"
+  },
+  "files": [
+    "bin/",
+    "android-design/",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE",
+    "NOTICE"
+  ],
+  "keywords": [
+    "claude",
+    "claude-code",
+    "agent-skill",
+    "skill",
+    "android",
+    "material-design",
+    "material-3",
+    "material-3-expressive",
+    "jetpack-compose",
+    "adaptive",
+    "design"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allexp1/android-design.git"
+  },
+  "homepage": "https://github.com/allexp1/android-design#readme",
+  "bugs": {
+    "url": "https://github.com/allexp1/android-design/issues"
+  },
+  "license": "MIT"
+}

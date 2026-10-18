@@ -1,0 +1,17 @@
+.DS_Store
+**/.DS_Store
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+*.log
+*.swp
+*.swo
+node_modules/
+*.tgz
+.env
+.env.local
+dist/
+
+# Internal planning notes and review logs stay local.
+plan/

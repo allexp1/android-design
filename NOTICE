@@ -1,0 +1,51 @@
+android-design
+==============
+
+This project is an INDEPENDENT, UNAFFILIATED design reference. It is not
+produced, endorsed, sponsored, or approved by Google LLC.
+
+Trademarks
+----------
+Android, Google, Google Play, Material Design, Material You, Material 3,
+Material Symbols, Jetpack Compose, Wear OS, Google TV, Android Auto, Android
+Automotive, Android XR, Pixel, and other Google product and feature names are
+trademarks of Google LLC. Apple product names that appear in the iOS-to-Android
+translation material are trademarks of Apple Inc. These names are used here
+only for identification and descriptive reference. No claim to any of these
+trademarks is made.
+
+Source material
+---------------
+The guidance in this project is an original synthesis and paraphrase of
+Google's publicly available Android design guidance (developer.android.com),
+Material Design guidance (m3.material.io), Android and Jetpack release notes,
+and Google's developer blog posts. No Google text is reproduced at length;
+names of guidelines, components, tokens, and API symbols are used as names.
+Google's published pages remain the authoritative and evolving source of
+truth:
+
+    https://developer.android.com/design/ui
+    https://m3.material.io
+
+Much developer.android.com content is published by Google under CC BY 4.0 and
+its code samples under Apache 2.0 (see https://developers.google.com/terms/site-policies).
+Where this project adapts such material, it is paraphrased and attributed by
+link at the point of use. Those licenses do not necessarily cover all Material
+Design site content, imagery, or blog media, and nothing here relicenses
+Google's content under MIT.
+
+Factual statements (release dates, API levels, library versions, dimensions)
+reflect Google's published pages on the dates recorded in the skill's claim
+ledger and CHANGELOG.md, and may since have changed. Values marked "derived"
+were worked out by the authors and are not published by Google.
+
+Interpretation
+--------------
+The philosophy and psychology material is the authors' interpretation, not text
+published by Google. It maps independently published design and cognitive
+principles to the guidance they help explain, to make the guidance
+understandable and generative.
+
+The MIT license in LICENSE applies to the original written content and code in
+this repository. It does not grant any rights in Google's trademarks or in
+Google's own copyrighted guidance.
